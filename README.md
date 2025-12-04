@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Hi 👋, I'm @shakhzodkomilov<br><br>- A passionate backend developer from Uzbekistan<br><br>-🌱 I’m currently learning **Kubernetes and CI/CD**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/shakhzodkomilov/](https://github.com/shakhzodkomilov/)<br><br>- 📫 How to reach me **komilovshaxzod57@gmail.com**
+- Hi 👋, I'm @shakhzodkomilov<br><br>- A passionate backend developer from Uzbekistan<br><br>-🌱 I’m currently learning **Kubernetes and CI/CD**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/shakhzodkomilov/](https://github.com/shakhzodkomilov/)<br><br>- 📫 How to reach me **shakhzodkomilovv@gmail.com**
 
 
 ## 🌐 Socials:
